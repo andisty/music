@@ -9,11 +9,11 @@ artists = [
 
 artist_songs = {}
 
-artist_songs["Metallica"] = ["Nothing else matter", "...And justice for all", "Master of puppets", "The unforgiven"],
-artist_songs["Ska-p"] = ["El vals del obrero", "La mosca cojonera", "El gato Lopez", "Cannabis"],
-artist_songs["Vasco Rossi"] = ["Sally", "C'e chi dice no", "Stupendo", "Valium"],
-artist_songs["Guns n roses"] = ["November rain", "Sweet child o' mine", "Paradise city", "Patience"],
-artist_songs["The clash"] = ["Should I stay or should I go", "Train in vain", "Rock the casbah"],
+artist_songs["Metallica"] = ["Nothing else matter", "...And justice for all", "Master of puppets", "The unforgiven"]
+artist_songs["Ska-p"] = ["El vals del obrero", "La mosca cojonera", "El gato Lopez", "Cannabis"]
+artist_songs["Vasco Rossi"] = ["Sally", "C'e chi dice no", "Stupendo", "Valium"]
+artist_songs["Guns n roses"] = ["November rain", "Sweet child o' mine", "Paradise city", "Patience"]
+artist_songs["The clash"] = ["Should I stay or should I go", "Train in vain", "Rock the casbah"]
 
 
  artists.each do | name, avatar |
